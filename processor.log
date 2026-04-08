@@ -1,0 +1,17 @@
+2026-04-08 17:55:12,802 - INFO - CSV file read successfully
+2026-04-08 17:55:12,802 - INFO - Salary analysis completed
+2026-04-08 17:55:12,802 - INFO - Bonus salary added
+2026-04-08 17:55:12,803 - INFO - Filtering completed
+2026-04-08 17:55:12,803 - INFO - Updated CSV written successfully
+2026-04-08 17:55:12,806 - INFO - Processing completed successfully
+2026-04-08 17:55:46,629 - ERROR - Empty CSV file
+2026-04-08 17:56:11,357 - ERROR - File not found
+2026-04-08 17:57:00,393 - ERROR - Missing value at line 2
+2026-04-08 17:57:46,679 - ERROR - Missing value at line 2
+2026-04-08 17:58:50,668 - ERROR - Invalid Data Format: Incorrect headers
+2026-04-08 17:59:33,769 - INFO - CSV file read successfully
+2026-04-08 17:59:33,769 - INFO - Salary analysis completed
+2026-04-08 17:59:33,769 - INFO - Bonus salary added
+2026-04-08 17:59:33,769 - INFO - Filtering completed
+2026-04-08 17:59:33,770 - INFO - Updated CSV written successfully
+2026-04-08 17:59:33,773 - INFO - Processing completed successfully
